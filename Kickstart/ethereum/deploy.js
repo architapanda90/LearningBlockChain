@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-  'abuse elite bean vintage twelve pass friend federal usual water hobby mom',
-'https://rinkeby.infura.io/ydyvuzzKZ2KA4UpbceqJ'
+  'abuse elite bean to vintage twelve pass  fail friend federal usual water hobby mom',
+'https://rinkeby.infura.io/ydgfhdyvuzzKZ2KA4UpbceqJ'
 );
 const web3 = new Web3(provider);
 
